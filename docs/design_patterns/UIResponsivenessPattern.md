@@ -12,14 +12,14 @@ tags:
 
 ## Description / Definition
 
-* This is where we can state the problem statement (slide 3)
+* This is where we can state the problem statement (slide 2)
 
 The UIResponsivess pattern is a design pattern that xxxxxxxxx.
 
 
 ## Key Architecture decisions
 
-* This is where we can state the problem statement (slide 2)
+* This is where we can state the overview statement (slide 3)
 
 
 ## Reference Architecture
