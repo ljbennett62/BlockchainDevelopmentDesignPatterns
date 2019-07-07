@@ -1,7 +1,3 @@
-# Blockchain DesignPatternTemplate
-
-
-
 # Design patterns implemented for Blockchain applications
 
 **Owner:  [Varun Ojha](https://github.ibm.com/varun-ojha)**
@@ -49,6 +45,18 @@ patterns by any of the following approaches
  - Using difficulty tags, `Difficulty-Beginner`, `Difficulty-Intermediate` & `Difficulty-Expert`.
  - Using pattern categories, `UI`, `Front-end` and others.
  - Search for a specific pattern. Can't find one? Please report a new pattern [here](xxxxx).
+
+
+ ## Blockchain Patterns
+
+| Pattern | Description | Status |
+|:-------:|:----------- |:------:|
+| [UIResponsivenessPattern](./docs/design_patterns/UIResponsivenessPattern.md) | Provides an interface for creating  | ✘ |
+| [B-pattern](./docs/design_patterns/xx.md) | Builds xxxx | ✔ |
+| [C-pattern](./docs/design_patterns/xx.md) | Defers xxxxx | ✔ |
+| [D-pattern](./docs/design_patterns/xx.md) | Instantiates and maintains xxxxx  | ✔ |
+
+
 
 # How to contribute
 
