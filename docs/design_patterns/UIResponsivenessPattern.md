@@ -9,7 +9,7 @@ tags:
  - UI
 ---
 
-## Description / Definition
+## Problem Statement
 
 * This is where we can state the problem statement (slide 2)
 
@@ -22,18 +22,9 @@ tags:
 * User wants fast reads
 
 
-## Key Architecture decisions
+## Architecture Diagram
 
 * This is where we can state the overview statement (slide 3)
-
-* Single page application
-* Non-blocking
-* AJAX
-* Asynchronous
-* Of-chain cache
-
-
-## Reference Architecture
 
 Achieve flexibility of developing UI
 
@@ -43,7 +34,7 @@ Achieve flexibility of developing UI
 
 
 
-## Use Cases (or Applicability)
+## Usage
 Use the UIResponsivness Pattern in a Blockchain use case when .....
 
 * there is a need to xxxxx
@@ -52,17 +43,11 @@ Use the UIResponsivness Pattern in a Blockchain use case when .....
 
 
 
-## Example Implementation (Sample Code)
+## Implementation
 
 * Add links to tutorials or patterns or real-world examples
-* [Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
-
-## Alternative Implementations
-
-* slide 9
 
 
-## References
 
+## Documentation
 
-## Credits
