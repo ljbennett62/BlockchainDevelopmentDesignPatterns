@@ -51,13 +51,6 @@ HTTP Long polling and websockets are two possible approaches that can be used to
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 </head>
 <body>
 
@@ -66,7 +59,7 @@ img {
 
 </body>
 </html>
-<figcaption>                      Fig.1</figcaption>
+<figcaption>Fig.1</figcaption>
 </figure>
 
 &ensp;
@@ -105,7 +98,7 @@ img {
 <body>
 
 
-<img src="./images/fig2.png" alt="Paris" style="width:75%;">
+<img src="./images/fig2.png" style="width:75%;">
 
 </body>
 </html>
@@ -132,7 +125,7 @@ img {
 <body>
 
 
-<img src="./images/fig3.png" alt="Paris" style="width:75%;">
+<img src="./images/fig3.png" style="width:75%;">
 
 </body>
 </html>
