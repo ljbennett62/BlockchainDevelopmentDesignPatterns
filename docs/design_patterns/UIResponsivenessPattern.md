@@ -85,6 +85,8 @@ This design pattern will take the example of a web based user interface.
 
 Should be asynchronous so as to respond to the client immediately with transaction/request information for further reconciliation
 
+&ensp;
+
 <figure>
 <html>
 <head>
@@ -106,16 +108,11 @@ Asynchronous Backend API
 In order to implement a non-blocking user interface the backend data APIs need to support asynchronous request execution. The sequence diagram below captures the interaction between the user interface and the server side data APIs
 
 
+&ensp;
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 </head>
 <body>
 
