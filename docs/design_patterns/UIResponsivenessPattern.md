@@ -47,6 +47,8 @@ All the factors above along with Blockchain’s transaction paradigm, which incl
 
 HTTP Long polling and websockets are two possible approaches that can be used to implement the communication between the client and the server for this pattern. This design pattern uses the HTTP long polling technique as demonstrated in the architecture below. Part 2 of this pattern will demonstrate the websockets approach
 
+&ensp;
+
 <figure>
 <html>
 <head>
@@ -87,13 +89,6 @@ Should be asynchronous so as to respond to the client immediately with transacti
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 </head>
 <body>
 
